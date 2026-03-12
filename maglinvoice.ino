@@ -9,8 +9,8 @@
 #include <LiquidCrystal_I2C.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "BKS";
-char pass[] = "042006ka";
+char ssid[] = ;
+char pass[] = ;
 
 #define DHTPIN 2  // D4 on NodeMCU
 #define DHTTYPE DHT11
